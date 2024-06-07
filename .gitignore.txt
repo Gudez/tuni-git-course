@@ -1,8 +1,0 @@
-# Ignore in files
-*.in
-
-# Ignore out files
-*.out
-
-# Ignore pyc files
-*.pyc
